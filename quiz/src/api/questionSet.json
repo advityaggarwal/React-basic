@@ -1,0 +1,32 @@
+{"data":[
+    {
+      "Type":"radio",
+      "ques":"What is the National Game of India?",
+      "options":["Hockey","Cricket","Football","Kabaddi"],
+      "sNo":1
+    },
+    {
+      "Type":"radio",
+      "ques":"What is the National Game of Russia?",
+      "options":["Bandy","Tennis","Football","Chess"],
+      "sNo":2
+    },
+    {
+      "Type":"checkbox",
+      "ques":"What is the National Game of France?",
+      "options":["Baseball","Tennis","Football","Chess"],
+      "sNo":3
+    },
+    {
+      "Type":"radio",
+      "ques":"What is the National Game of England?",
+      "options":["Cricket","Tennis","Football","Chess"],
+      "sNo":4
+    },
+    {
+      "Type":"radio",
+      "ques":"What is the National Game of Australia?",
+      "options":["Ice-Hockey","Cricket","Badminton","Swimming"],
+      "sNo":5
+    }]
+}
